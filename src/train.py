@@ -78,5 +78,5 @@ print("\nModel Saved Successfully!")
 
 X_train.to_csv("X_train.csv", index=False)
 X_test.to_csv("X_test.csv", index=False)
-Y_train.to_csv("y_train.csv", index=False)
-Y_test.to_csv("y_test.csv", index=False)
+Y_train.to_csv("Y_train.csv", index=False)
+Y_test.to_csv("Y_test.csv", index=False)
