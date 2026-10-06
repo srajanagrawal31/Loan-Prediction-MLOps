@@ -7,7 +7,7 @@ print(model)
 print("Model loaded scuccessfully!")
 
 x_test= pd.read_csv('./data/X_test.csv')
-y_test= pd.read_csv('./data/Y_test.csv')
+y_test= pd.read_csv('./data/y_test.csv')
 
 print(x_test.head())
 print(y_test.head())
